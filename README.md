@@ -1,4 +1,6 @@
-# HawkHacks-2023
+# Web App Template
+
+A template for a Dockerized NodeJS and PostgreSQL web app.
 
 ## Setup
 
